@@ -12,7 +12,6 @@ function countUniqueValues(arr){
             i = j
             ++count
         }
-
     }
     return count
 }
