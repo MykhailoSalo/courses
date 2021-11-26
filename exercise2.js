@@ -1,6 +1,6 @@
 
 function countUniqueValues(arr){
-    let count;
+    let count = 0;
     let i = 0;
     if (arr.length) {
         console.log(arr.length);
